@@ -1,6 +1,9 @@
 # Computer-Vision-Object-Size-Measuring
 Computer Vision Program to Measure the Width and Height of objects on the picture
 
+Requirements:
+    *OpenCV
+
 The system works by placing a reference object of known size on to the image.
 Note that the reference object should be the left most object on the image.
 We use the object to calculate a pixels per metric constant [pixels/mm],
@@ -13,9 +16,9 @@ camera. The angle at which we take a photo must be as close to 90deg to the xy p
 as possible. Factors such as lens distortion also impact the result.
 
 Note:
-  the system was build for education purposes, so its not fully scalable nor build for performance. 
-  The system may produce incorrect results given a picture with completely different
-  light conditions, since the amount of preprocessing is specific to the image.
+    the system was build for education purposes, so its not fully scalable nor build for performance. 
+    The system may produce incorrect results given a picture with completely different
+    light conditions, since the amount of preprocessing is specific to the image.
   
 Test Results:
     I tested it with two pictures with different lighting conditions, here are the
