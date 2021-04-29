@@ -1,8 +1,7 @@
 # Computer-Vision-Object-Size-Measuring
 Computer Vision Program to Measure the Width and Height of objects on the picture
 
-Requirements:
-    *OpenCV
+Requirements: Build and Install OpenCV
 
 The system works by placing a reference object of known size on to the image.
 Note that the reference object should be the left most object on the image.
