@@ -19,20 +19,20 @@ with completely different light conditions, since the amount of preprocessing is
  
 ## Test Results:
 I tested it with two pictures with different lighting conditions, bellow are the results.
-<img src="drawing.jpg" alt="drawing" width="200"/>
+
 ### Input Image1
-![drawing](test_image1.jpg)
+![](test_image1.jpg = x250)
 
 ### Labeled Image1
-![drawing](test_image1_results.jpg)
+![](test_image1_results.jpg = x250)
 
 ### Input Image2
-![drawing](test_image2.jpg) 
+![](test_image2.jpg = x250) 
 
 ### Labeled Image2
-![drawing](test_image2_results.jpg)
+![](test_image2_results.jpg = x250)
  
 ### Actual Measurments done by hand
-![drawing](real.jpg)
+![](real.jpg = x250)
   
     
