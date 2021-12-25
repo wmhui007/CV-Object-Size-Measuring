@@ -12,7 +12,7 @@ Measuring the number of pixels between two vertices and dividing by
 pixels per metric gives us the real world distance between vertices in millimeters.
 
 Note that the precision of the measurement is strongly influenced, by the angle of
-camera. The angle at which we take a photo must be as close to 90deg to the xy plane
+camera. The angle at which we take a photo must be as close to 90 &deg; to the xy plane
 as possible. Factors such as lens distortion also impact the result. The system was build for education purposes, 
 so its not fully scalable nor build for performance. The system may produce incorrect results given a picture 
 with completely different light conditions, since the amount of preprocessing is specific to the image.
