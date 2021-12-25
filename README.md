@@ -18,8 +18,7 @@ so its not fully scalable nor build for performance. The system may produce inco
 with completely different light conditions, since the amount of preprocessing is specific to the image.
   
 ## Test Results:
-    I tested it with two pictures with different lighting conditions, here are the
-    results:
+I tested it with two pictures with different lighting conditions, bellow are the results.
  
 ### Input Image1
 ![](test_image1.jpg)
