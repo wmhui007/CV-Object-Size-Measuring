@@ -21,7 +21,7 @@ with completely different light conditions, since the amount of preprocessing is
 I tested it with two pictures with different lighting conditions, bellow are the results.
 
 ### Input Image1
-![](test_image1.jpg = x250)
+![](test_image1.jpg =x250)
 
 ### Labeled Image1
 ![](test_image1_results.jpg = x250)
