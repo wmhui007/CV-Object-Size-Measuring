@@ -1,6 +1,6 @@
 # Computer-Vision-Object-Size-Measuring
 
-##Computer Vision Program to Measure the Width and Height of objects on the picture
+## Computer Vision Program to Measure the Width and Height of objects on the picture
 
 Requirements: Build and Install OpenCV
 
