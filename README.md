@@ -20,7 +20,7 @@ with completely different light conditions, since the amount of preprocessing is
 ## Test Results:
 I tested it with two pictures with different lighting conditions, bellow are the results.
 
-### Input Image
+#### Input Image
 <img src="test_image1.jpg" width="400">
 
 ### Labeled Image1
