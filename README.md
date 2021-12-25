@@ -16,23 +16,23 @@ camera. The angle at which we take a photo must be as close to 90&deg; to the xy
 as possible. Factors such as lens distortion also impact the result. The system was build for education purposes, 
 so its not fully scalable nor build for performance. The system may produce incorrect results given a picture 
 with completely different light conditions, since the amount of preprocessing is specific to the image.
-  
+ 
 ## Test Results:
 I tested it with two pictures with different lighting conditions, bellow are the results.
- 
+<img src="drawing.jpg" alt="drawing" width="200"/>
 ### Input Image1
-![](test_image1.jpg)
+![drawing](test_image1.jpg)
 
 ### Labeled Image1
-![](test_image1_results.jpg)
+![drawing](test_image1_results.jpg)
 
 ### Input Image2
-![](test_image2.jpg) 
+![drawing](test_image2.jpg) 
 
 ### Labeled Image2
-![](test_image2_results.jpg)
+![drawing](test_image2_results.jpg)
  
 ### Actual Measurments done by hand
-![](real.jpg)
+![drawing](real.jpg)
   
     
