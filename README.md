@@ -23,16 +23,16 @@ I tested it with two pictures with different lighting conditions, bellow are the
 #### Input Image
 <img src="test_image1.jpg" width="400">
 
-### Labeled Image1
+#### Labeled Image1
 <img src="test_image1_results.jpg" width="400">
 
-### Input Image2 
+#### Input Image2 
 <img src="test_image2.jpg" width="400">
 
-### Labeled Image2
+#### Labeled Image2
 <img src="test_image2_results.jpg" width="400">
  
-### Actual Measurments done by hand
+#### Actual Measurments done by hand
 <img src="real.jpg" width="400">
   
     
