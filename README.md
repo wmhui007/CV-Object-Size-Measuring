@@ -24,15 +24,15 @@ I tested it with two pictures with different lighting conditions, bellow are the
 <img src="test_image1.jpg" width="400">
 
 ### Labeled Image1
-![](test_image1_results.jpg = x250)
+<img src="test_image1_results.jpg" width="400">
 
-### Input Image2
-![](test_image2.jpg = x250) 
+### Input Image2 
+<img src="test_image2.jpg" width="400">
 
 ### Labeled Image2
-![](test_image2_results.jpg = x250)
+<img src="test_image2_results.jpg" width="400">
  
 ### Actual Measurments done by hand
-![](real.jpg = x250)
+<img src="real.jpg" width="400">
   
     
