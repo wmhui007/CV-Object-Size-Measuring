@@ -22,6 +22,7 @@ I tested it with two pictures with different lighting conditions, bellow are the
 
 ### Input Image1
 ![](test_image1.jpg =x250)
+<img src="test_image1.jpg" width="200">
 
 ### Labeled Image1
 ![](test_image1_results.jpg = x250)
