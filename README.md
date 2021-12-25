@@ -20,9 +20,8 @@ with completely different light conditions, since the amount of preprocessing is
 ## Test Results:
 I tested it with two pictures with different lighting conditions, bellow are the results.
 
-### Input Image1
-![](test_image1.jpg =x250)
-<img src="test_image1.jpg" width="200">
+### Input Image
+<img src="test_image1.jpg" width="400">
 
 ### Labeled Image1
 ![](test_image1_results.jpg = x250)
